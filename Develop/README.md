@@ -1,29 +1,36 @@
-# stuff [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-    ya
+# a readme generator
 
-    ## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    ## License
 
-This project is covered under the MIT license. For more information, please visit (https://opensource.org/licenses/MIT)
 
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-    ## Installation
-    ok
+## Description
+just enter the needed fields and go
 
-    ## Usage
-    sure
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-    ## Contributing
-    yes
+## Installation
+none needed
 
-    ## Tests
-    neee
+## Usage
+its used for making readmes dummy
 
-    ## Questions
-    For any questions, feel free to contact me at @huuuub or [visit my Github Profile.](https://www.github.com/hub)
+## License
+
+This project is covered under the MIT license. For more information see [the following link](https://opensource.org/licenses/MIT)
+
+## Contributing
+credit as necesseary
+
+## Tests
+type around and find out
+
+## Questions
+For any questions, feel free to contact me at jlevesque1985@gmail.com or [visit my Github Profile.](https://www.github.com/hubbudub)
