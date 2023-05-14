@@ -1,12 +1,12 @@
 
-# a readme generator
+# A read me generator!
 
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-just enter the needed fields and go
+you type in the content you need formatted into a read me and it makes it happen!
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,20 +17,20 @@ just enter the needed fields and go
 - [Questions](#questions)
 
 ## Installation
-none needed
+just open the index.js file and in the terminal run the node command for the index.js file
 
 ## Usage
-its used for making readmes dummy
+anytime you need a professionally formatted read me
 
 ## License
 
 This project is covered under the MIT license. For more information see [the following link](https://opensource.org/licenses/MIT)
 
 ## Contributing
-credit as necesseary
+give credit where its due!
 
 ## Tests
-type around and find out
+generating this readme is a test of its function
 
 ## Questions
-For any questions, feel free to contact me at jlevesque1985@gmail.com or [visit my Github Profile.](https://www.github.com/hubbudub)
+For any questions, feel free to contact me at jlevesque1985@gmail.com or [visit my Github Profile.](https://www.github.com/jlevbury)
