@@ -1,29 +1,36 @@
-# readme generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-    hopefully a tool that generates a readme based off of user inputs
+# a readme generator
 
-    ## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    ## License
 
-This project is covered under the MIT license. For more information, please visit (https://opensource.org/licenses/MIT)
 
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-    ## Installation
-    open the index.js file and run it using node commands
+## Description
+just enter the needed fields and go
 
-    ## Usage
-    for students and professionals
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-    ## Contributing
-    please credit when used elsewhere
+## Installation
+none needed
 
-    ## Tests
-    no tests necessary
+## Usage
+its used for making readmes dummy
 
-    ## Questions
-    For any questions, feel free to contact me at bury@hub or [visit my Github Profile.](https://www.github.com/jlevbury)
+## License
+
+This project is covered under the MIT license. For more information see [the following link](https://opensource.org/licenses/MIT)
+
+## Contributing
+credit as necesseary
+
+## Tests
+type around and find out
+
+## Questions
+For any questions, feel free to contact me at jlevesque1985@gmail.com or [visit my Github Profile.](https://www.github.com/hubbudub)
