@@ -17,7 +17,7 @@ This projects intent was to utilize Node.JS modules and functions to utilize NPM
 - [Questions](#questions)
 
 ## Installation
-No installation required.
+The file needed to test this script is found within the "Develop" folder , it is named "index.js".
 
 ## Usage
 after opening the "index.js" file, running the node command "node index.js" will initialize the script and begin the prompt of questions. After completing these questions, a markdown file will be written based off of the users inputs.
