@@ -22,7 +22,7 @@ No installation required.
 ## Usage
 after opening the "index.js" file, running the node command "node index.js" will initialize the script and begin the prompt of questions. After completing these questions, a markdown file will be written based off of the users inputs.
 ![Screenshot (90)](https://github.com/Jlevbury/readme_generator/assets/125767916/430723f6-614a-44a7-9e58-b62b7f53499e)
-
+A full demostration is available to view @ https://watch.screencastify.com/v/YawJ0SFPgCAPeYCxj0Uq
 ## License
 
 This project is covered under the MIT license. For more information see [the following link](https://opensource.org/licenses/MIT)
